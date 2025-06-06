@@ -42,10 +42,6 @@ Languages: Python | Java | C | C# | HTML/CSS | SQL Frameworks: .NET | AWT | Fast
 
 ---
 
-### 🔥 Fun Fact
-
-I once built an entire system that makes bureaucracy easier — now imagine what I can do with data, code, and a mission. 😄
-
 <!---
 Muzzammil777/Muzzammil777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
