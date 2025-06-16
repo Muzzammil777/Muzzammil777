@@ -1,48 +1,61 @@
 <h1 align="center">🚀 Mohammed Muzzammil A K</h1>
 
 <p align="center">
-  🧑‍💻 Aspiring ML Engineer • Full-Stack Explorer • Code Artisan <br>
-  🌐 Dreaming in logic, debugging with caffeine ☕
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=440&lines=ML+Enthusiast;Full-Stack+Explorer;Problem+Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation"/>
 </p>
 
 ---
 
-### 👋 Hello, World!
+### 👋 About Me
 
-I'm **Mohammed Muzzammil A K**, a curious mind from a humble village with a vision to use **technology to solve meaningful problems**. Whether it’s writing algorithms or building user interfaces, I enjoy creating things that make life easier — smarter.
+Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer from a humble background, passionate about crafting useful tech that makes life smarter and simpler.
 
----
-
-### 🔭 What I'm Up To
-
-- 🛠 **Building Smart Systems** – Created an intelligent **Petition Handling System** that reads, classifies, and routes citizen petitions to the right **TN Government Departments** using **Machine Learning** and **NLP** 🚨📄
-- 🌱 Currently diving deep into **C#** and the **.NET Framework**, exploring backend development and scalable solutions 🧩
-- 🤖 Fascinated by the endless possibilities of **AI**, **Data Science**, and **Automation**
-- 🧠 Learning never stops — I believe in *Kaizen* (constant improvement)
+🧠 I love solving real-world problems using technology. Whether it’s backend logic or front-end UI, I enjoy both the structure and the storytelling of code.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🔭 Currently Exploring
 
-Languages: Python | Java | C | C# | HTML/CSS | SQL Frameworks: .NET | AWT | FastAPI Concepts: OOP | Data Structures | Algorithms | DBMS | GUI Dev Tools: Git | VS Code | GitHub | Zenmap | Blender (learning)
-
----
-
-### 💡 Philosophy
-
-> "Code is not just syntax. It’s creativity, logic, empathy — turned into solutions."
+- 🤖 **Machine Learning** & **Generative AI**  
+- 💡 AI-driven project development  
+- ⚙️ Scalable system design & backend dev with **.NET** and **FastAPI**
 
 ---
 
-### 📫 Let’s Connect
+### 🧰 Tech Toolbox
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-muzzammil-a-k-356a36318)
-- 💻 [GitHub](https://github.com/Muzzammil777)
-- 📧 mohammedmuzzammil.offic@gmail.com
+| Languages | Frameworks | Concepts | Tools |
+| --------- | ---------- | -------- | ----- |
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c-sharp) | .NET • FastAPI • AWT | OOP • DSA • DBMS • ML | Git • GitHub • VS Code • Zenmap • Blender (learning) |
+
+---
+
+### 💡 My Motto
+
+> *“Code isn’t just about solving problems — it’s about solving them beautifully.”*
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-muzzammil-a-k-356a36318" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Muzzammil777" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:mohammedmuzzammil.offic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" alt="Gmail">
+  </a>
+</p>
 
 ---
 
 <!---
 Muzzammil777/Muzzammil777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
