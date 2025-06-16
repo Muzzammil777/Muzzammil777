@@ -1,6 +1,10 @@
 <h1 align="center">🚀 Mohammed Muzzammil A K</h1>
 
 <p align="center">
+  <img src="https://your-image-link.jpg" width="150" style="border-radius: 50%;" alt="Muzzammil's Profile Photo"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=440&lines=ML+Enthusiast;Full-Stack+Explorer;Problem+Solver" alt="Typing SVG" />
 </p>
 
