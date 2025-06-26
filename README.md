@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Mohammed Muzzammil A K</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=440&lines=ML+Enthusiast;Full-Stack+Explorer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F3FF&center=true&vCenter=true&width=440&lines=Generative-AI+Enthusiast;Full-Stack+Explorer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer fr
 
 ### 🔭 Currently Exploring
 
-- 🤖 **Machine Learning** & **Generative AI**  
+- 🤖 **Full-Stack Development** & **Generative AI**  
 - 💡 AI-driven project development  
 - ⚙️ Scalable system design & backend dev with **.NET** and **FastAPI**
 
