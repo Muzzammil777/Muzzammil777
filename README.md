@@ -1,58 +1,73 @@
-<!-- README: Cyberpunk — Full Stats + Retro Desk -->
-# 🛸 Mohammed Muzzammil A K
+<h1 align="center">🛸 Mohammed Muzzammil A K — Cyberpunk README</h1>
 
 <p align="center">
-  <!-- Retro desk programmer GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Retro Programmer at Desk" width="900" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00F3FF&center=true&vCenter=true&width=600&lines=Generative+AI+Enthusiast;Full+Stack+Explorer;Problem+Solver;Dreamer+and+Builder" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <!-- Neon typing headline -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=700&color=00F3FF&center=true&vCenter=true&width=900&lines=Mohammed+Muzzammil+A+K;Generative-AI+Enthusiast;Full-Stack+Explorer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Retro Programmer GIF"/>
 </p>
 
 ---
 
-<div align="center">
+### 👋 About Me
 
-![Neon Badge](https://img.shields.io/badge/NEON-CYBERPUNK-ff00ff?style=for-the-badge)
+Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer from a humble background, passionate about crafting useful tech that makes life smarter and simpler.
 
-</div>
+🧠 I love solving real-world problems using technology.  
+Whether it’s backend logic or front-end UI, I enjoy both the structure and the storytelling of code.  
+
+💭 I believe that *“code is where logic meets creativity.”*
 
 ---
 
-## 🚀 Real-time GitHub Stats & Visuals
-*(These are dynamic images that update automatically — replace `Muzzammil777` with your username if different.)*
+### 🔭 Currently Exploring
+
+- 🤖 **Full-Stack Development** & **Generative AI**  
+- 💡 AI-driven product design & development  
+- ⚙️ Scalable system design and backend dev with **.NET** and **FastAPI**
+
+---
+
+### 🧰 Tech Toolbox
+
+| Languages | Frameworks | Concepts | Tools |
+| --------- | ---------- | -------- | ----- |
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c-sharp) | .NET • FastAPI • AWT | OOP • DSA • DBMS • ML | Git • GitHub • VS Code • Zenmap • Blender *(learning)* |
+
+---
+
+### 💡 My Motto
+
+> “Code isn’t just about solving problems — it’s about solving them beautifully.”
+
+---
+
+## 🚀 GitHub Stats & Achievements
 
 <p align="center">
-  <!-- Profile summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muzzammil777&theme=radical" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Muzzammil777&theme=radical&row=1&column=7" alt="Trophies"/>
 </p>
 
 <p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzzammil777&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil777&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzzammil777&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil777&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <!-- Contributions Graph -->
-  <img src="https://github-contributions.vercel.app/api?username=Muzzammil777&theme=react-dark" alt="Contributions Calendar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzzammil777&theme=radical&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzzammil777&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-contributions.vercel.app/api?username=Muzzammil777&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <!-- Extra badges -->
-  <img src="https://komarev.com/ghpvc/?username=Muzzammil777&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Muzzammil777&color=brightgreen" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Muzzammil777?label=Followers&style=flat-square" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Muzzammil777?label=Stars&style=flat-square" alt="Stars" />
   <img src="https://img.shields.io/github/forks/Muzzammil777?label=Forks&style=flat-square" alt="Forks" />
@@ -60,86 +75,63 @@
 
 ---
 
-## 👨‍💻 About Me
-**Mohammed Muzzammil A K** — a builder, learner, dreamer.  
-Crafting scalable backends, slick frontends, and AI-powered apps.
-
-- 💼 **Role:** Software Developer & Problem Solver  
-- 🌍 **Location:** India  
-- 🔭 **Currently Exploring:** Full-Stack Development • Generative AI • FastAPI • .NET  
-
----
-
-## 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-17-7367F0?logo=java&style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-9B4F96?logo=c-sharp&style=for-the-badge" alt="C#" />
-  <img src="https://img.shields.io/badge/FastAPI-FF5A5F?logo=fastapi&style=for-the-badge" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&style=for-the-badge" alt=".NET" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=for-the-badge" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&style=for-the-badge" alt="VS Code" />
-</p>
-
----
-
-## ✨ Project Highlights
+### ⚡ Projects Showcase
 
 - **Vehicle Service Center Management System** — FastAPI backend, MongoDB Atlas, and responsive frontend.  
-- **Multimodal RAG System (PoC)** — Offline search and retrieval for PDFs, images, and audio.  
-- **Intelligent Evaluator** — Automated rubric-based assessment for algorithms and flowcharts.
+- **Multimodal RAG System (PoC)** — Offline AI retrieval for PDFs, images & audio.  
+- **Intelligent Evaluator** — Automated rubric-based evaluation for algorithms & flowcharts.
 
 ---
 
-## 🎛️ Neon Terminal (click to expand)
+### 🎛️ Neon Terminal (click to expand)
 <details>
-<summary><strong>Open Neon Terminal</strong></summary>
+<summary><strong>Open Terminal</strong></summary>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Matrix Rain" width="760"/>
 </p>
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ █ NEON-CORE | TERMINAL v2.1 █┃
-┃ user: muzzammil777 ┃
-┃ status: active ⚡️ ┃
-┃ recent: deployed Vehicle-Service-Center v1.4 ┃
-┃ tasks: integrate RAG | optimize ML pipeline | refactor┃
+┃ █ NEON-CORE | TERMINAL v2.1 █┃                        
+┃ user: muzzammil777                                    
+┃ status: online ⚡️                                                       
+┃ tasks: build | learn | automate ┃
+┃ focus: Generative AI | Full Stack | Innovation ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-yaml
+php-template
 Copy code
 
 </details>
 
 ---
 
-## 📽️ Cyberpunk Moodboard
+### 💬 Let's Connect
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6vV6u0tYbYwBa/giphy.gif" alt="Neon loop" width="280"/>
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="City loop" width="280"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Retrowave" width="280"/>
+  <a href="https://www.linkedin.com/in/mohammed-muzzammil-a-k-356a36318" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Muzzammil777" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:mohammedmuzzammil.offic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-muzzammil-a-k-356a36318" target="_blank">🔗 LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Muzzammil777" target="_blank">💻 GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:mohammedmuzzammil.offic@gmail.com">✉️ Email</a>
+  <img src="https://media.giphy.com/media/3o7aD6vV6u0tYbYwBa/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  ⚡ *Crafted with neon energy and endless curiosity.* ⚡
 </p>
 
 ---
 
-> **Tip:**  
-> Replace `Muzzammil777` with your username everywhere if different.  
-> All images and widgets auto-update live on GitHub.  
-
----
-
-⭐ *Powered by neon lights, caffeine, and clean code.* ⚡
+<!---
+Muzzammil777/Muzzammil777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
