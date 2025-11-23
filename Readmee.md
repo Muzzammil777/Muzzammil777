@@ -1,11 +1,11 @@
 <div align="center">
   <!-- Header Image (Name Card) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=300&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Generative-AI%20Enthusiast%20%26%20Full-Stack%20Explorer&descSize=20&descAlignY=55&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=300&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Generative-AI%20Enthusiast%20and%20Full-Stack%20Explorer&descSize=20&descAlignY=55&descAlign=62" width="100%"/>
   
   <br/>
   
-  <!-- Pacman Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Pacman Chase"/>
+  <!-- Retro Canoe Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284116-86100c5d-50e6-485d-926f-4d643d9225f2.gif" width="100%" alt="Retro Canoe"/>
 </div>
 
 <div align="center">
