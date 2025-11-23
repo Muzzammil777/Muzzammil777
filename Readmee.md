@@ -1,10 +1,6 @@
 <div align="center">
-  <!-- Header Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="600" alt="Night Chill Coding"/>
-  
-  <br/>
-  
-  <h1>🚀 Mohammed Muzzammil A K</h1>
+  <!-- Header Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=300&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Generative-AI%20Enthusiast%20%26%20Full-Stack%20Explorer&descSize=20&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 
 <div align="center">
@@ -30,7 +26,9 @@
   <img src="https://komarev.com/ghpvc/?username=Muzzammil777&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
 
-<hr />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### 🏆 Achievements
 
@@ -40,7 +38,9 @@
   </a>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### 👋 About Me
 
@@ -50,7 +50,9 @@ Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer fr
 
 🧠 I love solving real-world problems using technology. Whether it’s backend logic or front-end UI, I enjoy both the structure and the storytelling of code.
 
-<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### 🔭 Currently Exploring
 
@@ -58,7 +60,9 @@ Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer fr
 - 💡 AI-driven project development
 - ⚙ Scalable system design & backend dev with **.NET** and **FastAPI**
 
-<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### � Tech Stack
 
@@ -75,7 +79,9 @@ Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer fr
 
 </div>
 
-<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### 🧩 Contributions & Activity
 
@@ -83,7 +89,9 @@ Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer fr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzzammil777&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
-<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### 📊 GitHub Analytics
 
@@ -96,7 +104,9 @@ Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer fr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil777&layout=compact&theme=radical&langs_count=8" height="180" />
 </div>
 
-<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### 😂 Random Dev Joke
 
@@ -104,7 +114,9 @@ Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer fr
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 
-<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### 💡 My Motto
 
