@@ -1,6 +1,11 @@
 <div align="center">
-  <!-- Header Image -->
+  <!-- Header Image (Name Card) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=300&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Generative-AI%20Enthusiast%20%26%20Full-Stack%20Explorer&descSize=20&descAlignY=55&descAlign=62" width="100%"/>
+  
+  <br/>
+  
+  <!-- Mario Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Mario Running"/>
 </div>
 
 <div align="center">
@@ -44,11 +49,16 @@
 
 ### 👋 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding animation"/>
-
-Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer from a humble background, passionate about crafting useful tech that makes life smarter and simpler.
-
-🧠 I love solving real-world problems using technology. Whether it’s backend logic or front-end UI, I enjoy both the structure and the storytelling of code.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation"/>
+  <br/>
+  <br/>
+  <p>
+    Hey there! I'm <b>Mohammed Muzzammil A K</b> — a builder, learner, and dreamer from a humble background, passionate about crafting useful tech that makes life smarter and simpler.
+    <br/>
+    🧠 I love solving real-world problems using technology. Whether it’s backend logic or front-end UI, I enjoy both the structure and the storytelling of code.
+  </p>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -56,9 +66,15 @@ Hey there! I'm **Mohammed Muzzammil A K** — a builder, learner, and dreamer fr
 
 ### 🔭 Currently Exploring
 
-- 🤖 **Full-Stack Development** & **Generative AI**
-- 💡 AI-driven project development
-- ⚙ Scalable system design & backend dev with **.NET** and **FastAPI**
+<div align="center">
+  <p>
+    🤖 <b>Full-Stack Development</b> & <b>Generative AI</b>
+    <br/>
+    💡 AI-driven project development
+    <br/>
+    ⚙ Scalable system design & backend dev with <b>.NET</b> and <b>FastAPI</b>
+  </p>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
