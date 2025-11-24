@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Header Image (Name Card) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=300&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Generative-AI%20Enthusiast%20and%20Full-Stack%20Explorer&descSize=20&descAlignY=55&descAlign=62" width="100%"/>
+ <div align="center">                                                                                                                                                                                                                          <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=300&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Generative-AI%20Enthusiast%20and%20Full-Stack%20Explorer&descSize=20&descAlignY=55&descAlign=672" width="100%"/>
+ </div>
   
   <br/>
   
