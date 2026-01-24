@@ -1,148 +1,122 @@
 <div align="center">
-  <!-- Header Image (Name Card) -->
- <div align="center">                                                                                                                                                                                                                          <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=300&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Generative-AI%20Enthusiast%20and%20Full-Stack%20Explorer&descSize=20&descAlignY=55&descAlign=672" width="100%"/>
- </div>
-  
-  <br/>
-  
-  <!-- Retro Canoe Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284116-86100c5d-50e6-485d-926f-4d643d9225f2.gif" width="100%" alt="Retro Canoe"/>
-</div>
-
 <div align="center">
-  <!-- Typing SVG Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Generative-AI+Enthusiast;Full-Stack+Explorer;Problem+Solver;Building+The+Future" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=280&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Generative-AI%20Enthusiast%20%7C%20Full-Stack%20Explorer&descSize=20&descAlignY=55"
+       style="max-width:100%;"/>
 </div>
 
-<div align="center">
-  <!-- Social Icons & Views -->
-  <a href="https://github.com/Muzzammil777">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-muzzammil-a-k-356a36318">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohammedmuzzammil.offic@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <br/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Muzzammil777&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <br/>
-  <br/>
-  <!-- Grand Mario Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+
+
+
+<br/><br/>
+
+<a href="https://github.com/Muzzammil777">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohammed-muzzammil-a-k-356a36318">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohammedmuzzammil.offic@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Muzzammil777&label=Profile%20Views&color=blue&style=flat"/>
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-### 🏆 Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Muzzammil777&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-### 👋 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation"/>
-  <br/>
-  <br/>
-  <p>
-    Hey there! I'm <b>Mohammed Muzzammil A K</b> — a builder, learner, and dreamer from a humble background, passionate about crafting useful tech that makes life smarter and simpler.
-    <br/>
-    🧠 I love solving real-world problems using technology. Whether it’s backend logic or front-end UI, I enjoy both the structure and the storytelling of code.
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-### 🔭 Currently Exploring
-
-<div align="center">
-  <p>
-    🤖 <b>Full-Stack Development</b> & <b>Generative AI</b>
-    <br/>
-    💡 AI-driven project development
-    <br/>
-    ⚙ Scalable system design & backend dev with <b>.NET</b> and <b>FastAPI</b>
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-### � Tech Stack
+## 👋 About Me
 
 <div align="center">
 
-| **Category** | **Technologies** |
-| :---: | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Backend** | ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 
+<p>
+I’m <b>Mohammed Muzzammil A K</b>, passionate about building real-world software using Full-Stack Development and Generative AI.  
+I enjoy solving problems with clean logic and meaningful UI.
+</p>
+
+</div>
+
+---
+
+## 🔭 Currently Exploring
+
+- 🤖 Generative AI  
+- 🌐 Full-Stack Web Development  
+- ⚙ Backend Systems with .NET & FastAPI  
+- 📈 Scalable APIs and Databases  
+
+---
+
+## 🚀 Tech Stack
+
+| Category | Technologies |
+|---------|--------------|
+| Languages | Python, Java, C#, JavaScript |
+| Backend | .NET, FastAPI, Node.js, Django |
+| Frontend | React, HTML5, CSS3, Tailwind |
+| AI & ML | TensorFlow, PyTorch, OpenCV, Pandas |
+| Databases | PostgreSQL, MongoDB, MySQL |
+| Tools | Git, Docker, VS Code, Postman |
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
+
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9800&width=400&lines=🏆+Achievements" />
+</a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 </div>
 
-### 🧩 Contributions & Activity
+## 🏆 Achievements
+
+- 🥉 **Third Prize — Ignitrix Hackathon**  
+  *M. Kumarasamy College of Engineering — Sep 2025*  
+  Recognized for delivering an innovative technical solution.
+
+- 🥇 **First Prize — AIROX Coding Contest**  
+  *JJ College of Engineering and Technology — Nov 2024*  
+  Awarded for outstanding competitive programming performance.
+
+- 💻 **CodeVita 2025**  
+  Secured **Rank 602** at the national level.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzzammil777&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzzammil777&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzzammil777&theme=radical" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil777&layout=compact&theme=radical&langs_count=8" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-### 😂 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzzammil777&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzzammil777&theme=radical" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil777&layout=compact&theme=radical" height="160"/>
 </div>
 
-### 💡 My Motto
+---
+
+## 😂 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
+</div>
+
+---
 
 > “Code isn’t just about solving problems — it’s about solving them beautifully.”
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
