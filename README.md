@@ -99,9 +99,10 @@ I enjoy solving problems with clean logic and meaningful UI.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzzammil777&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzzammil777&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzzammil777&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzzammil777&theme=radical"/>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil777&layout=compact&theme=radical" height="160"/>
