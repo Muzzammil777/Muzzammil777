@@ -70,14 +70,6 @@ I enjoy solving problems with clean logic and meaningful UI.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9800&width=400&lines=🏆+Achievements" />
-</a>
-</div>
-
-<div align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
-</div>
 
 ## 🏆 Achievements
 
