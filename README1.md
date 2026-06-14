@@ -1,44 +1,74 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:3B0764,60:4C1D95,100:1E0A3C&height=220&section=header&text=Mohammed%20Muzzammil%20A%20K&fontSize=40&fontColor=EDE9FE&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Computer%20Vision&descAlignY=62&descSize=15&descColor=C4B5FD" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Intelligent+Systems+at+Scale;Full+Stack+%2B+AI+%2F+ML+Engineer;Computer+Vision+%26+RAG+Specialist;Competitive+Programmer+%7C+Open+Source" alt="Typing SVG" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.E.%20CSE-Anna%20University%20%7C%202027-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-7.78%20%2F%2010-6D28D9?style=flat-square&logo=bookstack&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HSC-93.67%25-5B21B6?style=flat-square&logo=school&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Karur%2C%20Tamil%20Nadu%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" width="220" align="center">
 
-<p align="center">
-  <a href="mailto:ak.mo.muzzammil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ak.mo.muzzammil-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/mohammed-muzzammil-a-k">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Muzzammil777">
-    <img src="https://img.shields.io/badge/GitHub-Muzzammil777-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<!-- ═══════════════════════════════════════ -->
+<!--   REPLACE THE URL BELOW WITH YOUR      -->
+<!--   GITHUB RAW PHOTO LINK                -->
+<!--   Example:                             -->
+<!--   https://raw.githubusercontent.com/   -->
+<!--   Muzzammil777/Muzzammil777/main/      -->
+<!--   assets/photo.jpg                     -->
+<!-- ═══════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&pause=99999&color=A78BFA&center=true&vCenter=true&width=180&height=180&lines=%F0%9F%93%B7+Your+Photo+Here;Upload+to+GitHub+repo;Link+it+in+README" style="border-radius:50%;border:3px solid #7C3AED;" width="180" height="180" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muzzammil777&style=flat-square&color=7C3AED&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Muzzammil777?style=flat-square&color=6D28D9&label=Followers&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Muzzammil777?style=flat-square&color=5B21B6&label=Stars&logo=github" />
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%93%8D-Karur%2C%20Tamil%20Nadu-4C1D95?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square&logo=checkmarx&logoColor=white" /><br/><br/>
+
+<a href="mailto:ak.mo.muzzammil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130"/></a><br/>
+<a href="https://linkedin.com/in/mohammed-muzzammil-a-k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130"/></a><br/>
+<a href="https://github.com/Muzzammil777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="130"/></a>
+
+</td>
+<td width="30"></td>
+<td valign="top">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=A78BFA&vCenter=true&repeat=true&width=520&lines=Hi+there%2C+I'm+Muzzammil+%F0%9F%91%8B;Full+Stack+Engineer;AI+%2F+ML+Systems+Developer;Computer+Vision+Specialist;Competitive+Programmer" alt="Typing SVG" />
+</a>
+
+<br/>
+
+> *Engineering intelligent systems at the intersection of*
+> *full-stack development, computer vision, and autonomous hardware.*
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.E.%20CSE-Anna%20University%20'27-7C3AED?style=flat-square&logo=mortarboard&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/CGPA-7.78%20%2F%2010.0-6D28D9?style=flat-square&logo=bookstack&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/HSC-93.67%25-5B21B6?style=flat-square&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Intern-MoviCloud%20Labs-A78BFA?style=flat-square&logo=briefcase&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Rank-CodeVita%20Global%20%23602-C4B5FD?style=flat-square&logo=trophy&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Grant-TNSDC%20Seed%20Fund%20%E2%82%B915K-DDD6FE?style=flat-square&logo=leaf&logoColor=black" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Muzzammil777&style=flat-square&color=7C3AED&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Muzzammil777?style=flat-square&color=6D28D9&label=Followers&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Muzzammil777?style=flat-square&color=5B21B6&label=Stars&logo=github" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
